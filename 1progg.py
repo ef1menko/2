@@ -6,4 +6,4 @@ for i in range(letter, 12, - step):
   if size < letter:
     size *= 2
     count += 2
-print(count, 'раз пополам нужно сложить конверт')
+print(count, 'раз поjполам нужно сложить конверт')
