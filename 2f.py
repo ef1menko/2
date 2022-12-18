@@ -1,4 +1,4 @@
-debtors = int(input('Введите количество должников: '))
+debtors = int(input('Введите колиuuuчество должников: '))
 print()
 credit = 0
 for calls in range (0, debtors, 5):
