@@ -1,12 +1,8 @@
-reverser_time = int(input('На сколько cек. поставить блюдо?: '))
+debtors = int(input('Введите количество должников: '))
 print()
-for time in range (reverser_time, 0, -1):
-    print('Осталось греться: ', time, 'сек.')
-    button = int(input('Прервать (Да -1, Нет -0): '))
+credit = 0
+for calls in range (0, debtors, 5):
+    print('Должник номер:', calls)
+    credit += int(input('Введите сумму долга: '))
     print()
-    if button == 1:
-        print('Ваша еда готова, можете забрать ', '\nОставалось: ', time, 'сек.')
-        break
-    elif button ==0:
-        continue
-print('Осторожно горячo!')
+print('Общая сумма долга: ', credit)
