@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b35c0654-cb14-4a3c-8092-9b99411225fa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b35c0654-cb14-4a3c-8092-9b99411225fa" name="Changes" comment="213">
+      <change beforePath="$PROJECT_DIR$/2f.py" beforeDir="false" afterPath="$PROJECT_DIR$/2f.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +95,18 @@
       <option name="presentableId" value="Default" />
       <updated>1671371399628</updated>
     </task>
+    <task id="LOCAL-00001" summary="213">
+      <created>1671376688441</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671376688441</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="213" />
+    <option name="LAST_COMMIT_MESSAGE" value="213" />
   </component>
 </project>
